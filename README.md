@@ -1,7 +1,4 @@
 # Adaptive Retrieval-Augmented Generation Learning (RAGL) System  
-🎥 **[Project Demo on YouTube](https://youtu.be/gpIohWJ3XwA)**
-
----
 
 ## 📘 Project Overview  
 The **Adaptive RAGL System** is an intelligent learning assistant built on the Retrieval-Augmented Generation (RAG) framework. It continuously learns from user interactions, updates its knowledge base in real time, and delivers contextual responses using advanced Large Language Models (LLMs).  
